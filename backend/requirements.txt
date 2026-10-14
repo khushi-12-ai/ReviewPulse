@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+spacy
+nltk
+vaderSentiment
+scikit-learn
+fpdf
+openpyxl
+google-generativeai
+deep-translator
+langdetect
